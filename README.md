@@ -24,7 +24,7 @@
 
 ## Abstract
 
-A fully automated algorithmic trading signal system** that monitors 6 major financial assets daily including US equities and cryptocurrency. The system fetches live market data, computes technical indicators (RSI, Momentum, Moving Averages), generates BUY/SELL/HOLD signals based on rule-based logic, and delivers a professional HTML email report automatically every day — with zero manual intervention.
+A fully automated algorithmic trading signal system** that monitors 6 major financial assets daily including US equities and cryptocurrency. The system fetches live market data, computes technical indicators (RSI, Momentum, Moving Averages), generates BUY/SELL/HOLD signals based on rule-based logic, and delivers a professional HTML email report automatically every day with zero manual intervention.
 
 ## Key features:
 - Real-time data fetching via Yahoo Finance API
@@ -101,10 +101,10 @@ algorithmic-trading-system/
 Measures the speed and magnitude of price changes. Values above 70 indicate overbought conditions (SELL), below 30 indicate oversold conditions (BUY).
 
 **Momentum**
-Measures the percentage price change over 20 trading days. High momentum (>10%) signals an overextended move — used to confirm SELL signals.
+Measures the percentage price change over 20 trading days. High momentum (>10%) signals an overextended move used to confirm SELL signals.
 
 **MA50 / MA200 (Moving Averages)**
-When MA50 > MA200, the asset is in a long-term uptrend. This acts as a filter — BUY signals are only generated in confirmed uptrends.
+When MA50 > MA200, the asset is in a long-term uptrend. This acts as a filter, BUY signals are only generated in confirmed uptrends.
 
 ## For Recruiters
 
@@ -122,4 +122,4 @@ This project demonstrates:
 ## Visual Results
 
 ### Daily Email Report
-screenshots
+/screenshots
