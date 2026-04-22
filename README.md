@@ -122,4 +122,4 @@ This project demonstrates:
 ## Visual Results
 
 ### Daily Email Report
-![screenshots.png]
+screenshots
